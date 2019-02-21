@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+  }
+
